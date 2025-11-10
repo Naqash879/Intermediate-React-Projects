@@ -41,8 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # My React Project
 
-This project is part of the [roadmap.sh](https://roadmap.sh/) learning path.
-
+https://roadmap.sh/projects/custom-dropdown
 
 ## Learn More
 
